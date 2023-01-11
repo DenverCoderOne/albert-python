@@ -335,6 +335,7 @@ class Plugin(albert.QueryHandler):
             "degrees C": "degC",
             "F": "degF",
             "C": "degC",
+            "nis": "ILS",
         },
         # Display names for units
         # Units may be added here to override the default display names
